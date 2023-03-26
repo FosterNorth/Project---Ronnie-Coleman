@@ -39,4 +39,10 @@ a {
 
 #back {
   float: left;
+  padding: 100px
+}
+
+#logo {
+    height: 200px;
+    width: 200px;
 }
