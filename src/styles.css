@@ -32,4 +32,7 @@ a {
   font-weight: bold;
 }
 
-
+#picture {
+  text-align: left; 
+  padding: right 150px;
+}
