@@ -36,3 +36,7 @@ a {
   text-align: left; 
   padding: right 150px;
 }
+
+#back {
+  float: left;
+}
