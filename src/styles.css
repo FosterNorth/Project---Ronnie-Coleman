@@ -50,7 +50,7 @@ a {
 }
 
 #cop {
-  text-align: left; 
+  float: left; 
   padding: right 150px;
   height: 650px;
   width: 650px;
